@@ -1,2 +1,2 @@
-# add-to-basket-button-jquery
-Exercise files for the course Add to basket button with jQuery
+# Add to basket button with jQuery
+Exercise files for the course **Add to basket button with jQuery**
